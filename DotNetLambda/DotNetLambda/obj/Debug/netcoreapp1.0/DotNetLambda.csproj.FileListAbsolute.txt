@@ -1,0 +1,9 @@
+D:\Projects\AwsLambdaTutorial\DotNetLambda\DotNetLambda\bin\Debug\netcoreapp1.0\DotNetLambda.deps.json
+D:\Projects\AwsLambdaTutorial\DotNetLambda\DotNetLambda\bin\Debug\netcoreapp1.0\DotNetLambda.dll
+D:\Projects\AwsLambdaTutorial\DotNetLambda\DotNetLambda\bin\Debug\netcoreapp1.0\DotNetLambda.pdb
+D:\Projects\AwsLambdaTutorial\DotNetLambda\DotNetLambda\obj\Debug\netcoreapp1.0\DotNetLambda.csprojResolveAssemblyReference.cache
+D:\Projects\AwsLambdaTutorial\DotNetLambda\DotNetLambda\obj\Debug\netcoreapp1.0\DotNetLambda.AssemblyInfo.cs
+D:\Projects\AwsLambdaTutorial\DotNetLambda\DotNetLambda\obj\Debug\netcoreapp1.0\DotNetLambda.dll
+D:\Projects\AwsLambdaTutorial\DotNetLambda\DotNetLambda\obj\Debug\netcoreapp1.0\DotNetLambda.pdb
+D:\Projects\AwsLambdaTutorial\DotNetLambda\DotNetLambda\obj\Debug\netcoreapp1.0\DotNetLambda.csproj.CoreCompileInputs.cache
+D:\Projects\AwsLambdaTutorial\DotNetLambda\DotNetLambda\obj\Debug\netcoreapp1.0\DotNetLambda.AssemblyInfoInputs.cache

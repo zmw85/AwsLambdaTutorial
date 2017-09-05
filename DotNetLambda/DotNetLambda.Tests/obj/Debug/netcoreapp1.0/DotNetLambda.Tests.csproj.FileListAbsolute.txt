@@ -1,0 +1,14 @@
+D:\Projects\AwsLambdaTutorial\DotNetLambda\DotNetLambda.Tests\bin\Debug\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Projects\AwsLambdaTutorial\DotNetLambda\DotNetLambda.Tests\bin\Debug\netcoreapp1.0\xunit.runner.utility.netstandard15.dll
+D:\Projects\AwsLambdaTutorial\DotNetLambda\DotNetLambda.Tests\bin\Debug\netcoreapp1.0\xunit.runner.reporters.netstandard15.dll
+D:\Projects\AwsLambdaTutorial\DotNetLambda\DotNetLambda.Tests\bin\Debug\netcoreapp1.0\DotNetLambda.Tests.deps.json
+D:\Projects\AwsLambdaTutorial\DotNetLambda\DotNetLambda.Tests\bin\Debug\netcoreapp1.0\DotNetLambda.Tests.runtimeconfig.json
+D:\Projects\AwsLambdaTutorial\DotNetLambda\DotNetLambda.Tests\bin\Debug\netcoreapp1.0\DotNetLambda.Tests.runtimeconfig.dev.json
+D:\Projects\AwsLambdaTutorial\DotNetLambda\DotNetLambda.Tests\bin\Debug\netcoreapp1.0\DotNetLambda.Tests.dll
+D:\Projects\AwsLambdaTutorial\DotNetLambda\DotNetLambda.Tests\bin\Debug\netcoreapp1.0\DotNetLambda.Tests.pdb
+D:\Projects\AwsLambdaTutorial\DotNetLambda\DotNetLambda.Tests\bin\Debug\netcoreapp1.0\DotNetLambda.dll
+D:\Projects\AwsLambdaTutorial\DotNetLambda\DotNetLambda.Tests\bin\Debug\netcoreapp1.0\DotNetLambda.pdb
+D:\Projects\AwsLambdaTutorial\DotNetLambda\DotNetLambda.Tests\obj\Debug\netcoreapp1.0\DotNetLambda.Tests.csprojResolveAssemblyReference.cache
+D:\Projects\AwsLambdaTutorial\DotNetLambda\DotNetLambda.Tests\obj\Debug\netcoreapp1.0\DotNetLambda.Tests.AssemblyInfo.cs
+D:\Projects\AwsLambdaTutorial\DotNetLambda\DotNetLambda.Tests\obj\Debug\netcoreapp1.0\DotNetLambda.Tests.dll
+D:\Projects\AwsLambdaTutorial\DotNetLambda\DotNetLambda.Tests\obj\Debug\netcoreapp1.0\DotNetLambda.Tests.pdb
