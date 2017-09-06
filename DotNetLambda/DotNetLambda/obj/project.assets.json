@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 2,
   "targets": {
     ".NETCoreApp,Version=v1.0": {
       "Amazon.Lambda.APIGatewayEvents/1.1.0": {
@@ -6951,45 +6951,28 @@
       "projectUniqueName": "D:\\Projects\\AwsLambdaTutorial\\DotNetLambda\\DotNetLambda\\DotNetLambda.csproj",
       "projectName": "DotNetLambda",
       "projectPath": "D:\\Projects\\AwsLambdaTutorial\\DotNetLambda\\DotNetLambda\\DotNetLambda.csproj",
-      "packagesPath": "C:\\Users\\jeff.wang\\.nuget\\packages\\",
       "outputPath": "D:\\Projects\\AwsLambdaTutorial\\DotNetLambda\\DotNetLambda\\obj\\",
       "projectStyle": "PackageReference",
-      "configFilePaths": [
-        "C:\\Users\\jeff.wang\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-      ],
       "originalTargetFrameworks": [
         "netcoreapp1.0"
       ],
-      "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://proget.infotrack.com.au/nuget/global": {},
-        "https://www.myget.org/F/aspnetvnext/api/v3/index.json": {}
-      },
       "frameworks": {
         "netcoreapp1.0": {
           "projectReferences": {}
         }
-      },
-      "warningProperties": {
-        "warnAsError": [
-          "NU1605"
-        ]
       }
     },
     "frameworks": {
       "netcoreapp1.0": {
         "dependencies": {
+          "Amazon.Lambda.Core": {
+            "target": "Package",
+            "version": "1.0.0"
+          },
           "Microsoft.NETCore.App": {
             "target": "Package",
             "version": "1.0.5",
             "autoReferenced": true
-          },
-          "Amazon.Lambda.Core": {
-            "target": "Package",
-            "version": "1.0.0"
           },
           "Amazon.Lambda.Serialization.Json": {
             "target": "Package",
